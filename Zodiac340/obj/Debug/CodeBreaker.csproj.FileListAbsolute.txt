@@ -1,0 +1,10 @@
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\CodeBreaker.Form1.resources
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\CodeBreaker.Properties.Resources.resources
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\CodeBreaker.csproj.GenerateResource.cache
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\CodeBreaker.csproj.CoreCompileInputs.cache
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\bin\Debug\CodeBreaker.exe.config
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\bin\Debug\CodeBreaker.exe
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\bin\Debug\CodeBreaker.pdb
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\CodeBreaker.exe
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\CodeBreaker.pdb
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\CodeBreaker.csprojResolveAssemblyReference.cache

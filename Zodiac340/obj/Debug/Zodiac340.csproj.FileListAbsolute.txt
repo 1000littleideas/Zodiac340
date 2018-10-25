@@ -1,0 +1,9 @@
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\Zodiac340.Form1.resources
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\Zodiac340.Properties.Resources.resources
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\Zodiac340.csproj.GenerateResource.cache
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\Zodiac340.csproj.CoreCompileInputs.cache
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\bin\Debug\Zodiac340.exe.config
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\bin\Debug\Zodiac340.exe
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\bin\Debug\Zodiac340.pdb
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\Zodiac340.exe
+C:\Users\kdedo\Documents\Visual Studio 2017\Projects\CodeBreaker\CodeBreaker\obj\Debug\Zodiac340.pdb
